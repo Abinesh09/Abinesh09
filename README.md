@@ -1,35 +1,40 @@
-# Hi there, I'm Abinesh! 👋
+<h1 align="center">Hi 👋, I'm Abinesh</h1>
+<h3 align="center">Full-Stack Developer & Software Engineer</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abinesh09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abinesh's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+modern+web+applications;Passionate+about+clean+code;Learning+and+exploring+new+tech" alt="Typing SVG" />
+</p>
 
 <br/>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,html,css,tailwind,git,github" alt="Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,html,css,tailwind,git,github,vscode,postman,mongodb,postgres" />
+  </a>
+</p>
+
+<br/>
+
+## ⚡ About Me
+
+- 🔭 **Currently working on**: Building responsive & interactive web applications
+- 🌱 **Learning**: Advanced Full-Stack Architecture, Performance Optimization & Cloud
+- 💬 **Ask me about**: JavaScript, TypeScript, React, Node.js & Web Development
+- 📫 **Connect with me**: [GitHub Profile](https://github.com/Abinesh09)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh09&theme=tokyonight&hide_border=true" alt="Abinesh's GitHub Streak" />
 </p>
 
 ---
 
-## ⚡ Quick About Me
-
-- 🔭 I’m currently working on building web applications and learning new technologies.
-- 🌱 I’m currently diving deeper into full-stack development and system design.
-- 💬 Ask me about web development, JavaScript/TypeScript, and frontend frameworks.
-- 📫 How to reach me: Connect with me on GitHub!
-
----
-
 <div align="center">
-  <sub>Designed with ❤️ for <a href="https://github.com/Abinesh09">Abinesh09</a></sub>
+  <i>Thanks for visiting my profile! 🚀</i>
 </div>
+
