@@ -35,10 +35,10 @@
 
 <br/>
 
-## 🚀 GitHub Profile Overview
+## 📊 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinesh09&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Abinesh09/Abinesh09/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
